@@ -105,7 +105,7 @@
     "popper-max-size-modifier": "0.2.0",
     "popweasel": "0.1.18",
     "randomcolor": "0.5.3",
-    "redis": "2.8.0",
+    "redis": "3.1.1",
     "redlock": "3.1.2",
     "short-uuid": "3.1.1",
     "tmp": "0.0.33",
